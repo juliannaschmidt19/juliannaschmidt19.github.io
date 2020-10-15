@@ -1,0 +1,1039 @@
+.shape { 
+	position: absolute;
+	background-color: rgb(0, 0, 0);
+} 
+
+.allr {
+	position: absolute;
+	left: -170px;
+	transform: scale(0.9)
+}
+
+.alla {
+	position: absolute;
+	left: -190px;
+	transform: scale(0.9);
+}
+
+.alln {
+	position: absolute;
+	left: -195px;
+	transform: scale(0.9);
+}
+
+.allg {
+	position: absolute;
+	left: -190px;
+	transform: scale(0.9);
+}
+
+.alle {
+	position: absolute;
+	left: -185px;
+	transform: scale(0.9);
+	background-color: rgb(0, 0, 0);
+
+}
+
+.alls {
+	position: absolute;
+	left: -190px;
+	transform: scale(0.9);
+}
+
+.r1 {
+	width: 300px;
+	height: 70px;
+	background-color: rgb(0, 0 , 0);
+	position: absolute; 
+	top: 100px;
+	left: 200px; 
+}
+
+.r1:hover {
+	background-color: rgb(0, 300, 100);
+}
+
+.r2 {
+	width: 50px;
+	height: 200px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 150px;
+	left: 290px;
+
+}
+
+.r2:hover {
+	background-color: rgb(0, 250, 100);
+}
+
+.r3 {
+	width: 150px;
+	height: 200px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 150px;
+	left: 450px;
+}
+
+.r3:hover {
+	background-color: rgb(115, 400, 100);
+}
+
+.r4 {
+	width: 360px;
+	height: 80px;
+	background-color: rgb(0, 0 , 0);
+	position: absolute; 
+	top: 320px;
+	left: 200px;
+}
+
+.r4:hover {
+	background-color: rgb(100, 500, 100);
+}
+
+.r5 {
+	width: 140px;
+	height: 80px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 400px;
+	left: 200px;
+}
+
+.r5:hover {
+	background-color: rgb(50, 200, 0);
+}
+
+.r6 {
+	width: 100px;
+	height: 160px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 370px;
+	left: 500px;
+}
+
+.r6:hover {
+	background-color: rgb(18, 200, 3);
+}
+
+.r7 {
+	width: 80px;
+	height: 200px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 440px;
+	left: 200px;
+}
+
+.r7:hover {
+	background-color: rgb(2, 290, 100);
+}
+
+.r8 {
+	width: 200px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 600px;
+	left: 200px;
+}
+
+.r8:hover {
+	background-color: rgb(10, 350, 10);
+}
+
+.r9 {
+	width: 50px;
+	height: 70px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 500px;
+	left: 550px;
+}
+
+.r9:hover {
+	background-color: rgb(80, 400, 25);
+}
+
+.r10 {
+	width: 100px;
+	height: 90px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 570px;
+	left: 500px;
+}
+
+.r10:hover {
+	background-color: rgb(40, 400, 23);
+}
+
+.a1 {
+	width: 250px;
+	height: 30px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 100px;
+	left: 780px;
+}
+
+.a1:hover {
+	width: 400px;
+	background-color: rgb(23, 450, 23);
+}
+
+.a2 {
+	width: 120px;
+	height: 130px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 100px;
+	left: 780px;
+}
+
+.a2:hover {
+	height: 100px;
+	background-color: rgb(100, 300, 20);
+}
+
+.a3 {
+	width: 250px;
+	height: 30px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 220px;
+	left: 780px;
+}
+
+.a3:hover {
+	width: 400px;
+	background-color: rgb(90, 200, 10);
+}
+
+.a4 {
+	width: 40px;
+	height: 150px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 245px;
+	left: 740px;
+}
+
+.a4:hover {
+	height: 100px;
+	background-color: rgb(100, 200, 40);
+}
+
+.a5 {
+	width: 150px;
+	height: 150px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 240px;
+	left: 940px;
+}
+
+.a5:hover {
+	width: 250px;
+	background-color: rgb(30, 200, 100);
+}
+
+.a6 {
+	width: 350px;
+	height: 50px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 360px;
+	left: 740px;
+}
+
+.a6:hover {
+	width: 450px;
+	background-color: rgb(20, 300, 40);
+}
+
+.a7 {
+	width: 410px;
+	height: 70px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 400px;
+	left: 680px;
+}
+
+.a7:hover {
+	width: 200px;
+	background-color: rgb(20, 200, 30);
+}
+
+.a8 {
+	width: 100px;
+	height: 200px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 460px;
+	left: 710px;
+}
+
+.a8:hover {
+	height: 100px;
+	background-color: rgb(10, 300, 40);
+}
+
+.a9 {
+	width: 170px;
+	height: 190px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 470px;
+	left: 950px;
+}
+
+.a9:hover {
+	width: 250px;
+	background-color: rgb(100, 200, 60);
+}
+
+.a10 {
+	width: 40px;
+	height: 50px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 420px;
+	left: 1109px;
+}
+
+.a10:hover {
+	width: 500px;
+	background-color: rgb(35, 600, 100);
+}
+
+.n1 {
+	width: 70px;
+	height: 70px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 100px;
+	left: 1180px;
+}
+
+.n1:hover {
+	top: 20px;
+	background-color: rgb(30, 200, 10);
+}
+
+.n2 {
+	width: 70px;
+	height: 75px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 100px;
+	left: 1280px;
+}
+
+.n2:hover {
+	top: 20px;
+	background-color: rgb(40, 300, 80);
+}
+
+
+
+.n3 {
+	width: 130px;
+	height: 35px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 150px;
+	left: 1280px;
+}
+
+.n3:hover {
+	top: 30px;
+	background-color: rgb(20, 300, 100);
+}
+
+.n4 {
+	width: 230px;
+	height: 100px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 180px;
+	left: 1180px;
+}
+
+.n4:hover {
+	top: 700px;
+	background-color: rgba(100, 300, 20);
+}
+
+.n5 {
+	width: 290px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 240px;
+	left: 1180px;
+}
+
+.n5:hover {
+	top: 850px;
+	background-color: rgb(30, 200, 40);
+}
+
+.n6 {
+	width: 200px;
+	height: 90px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 300px;
+	left: 1270px;
+}
+
+.n6:hover {
+	top: 800px;
+	background-color: rgb(100, 200, 30);
+}
+
+.n7 {
+	width: 50px;
+	height: 465px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 195px;
+	left: 1180px;
+}
+
+.n7:hover {
+	top: 900px;
+	background-color: rgb(25, 300, 100);
+}
+
+.n8 {
+	width: 270px;
+	height: 70px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 350px;
+	left: 1270px;
+}
+
+.n8:hover {
+	top: 650px;
+	background-color: rgb(60, 200, 100);
+}
+
+.n9 {
+	width: 200px;
+	height: 90px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 400px;
+	left: 1340px;
+}
+
+.n9:hover {
+	top: 590px;
+	background-color: rgb(90, 200, 15);
+}
+
+.n10 {
+	width: 150px;
+	height: 80px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 450px;
+	left: 1340px;
+}
+
+.n10:hover {
+	top: 670px;
+	background-color: rgb(100, 300, 100);
+}
+
+.n11 {
+	width: 60px;
+	height: 190px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 470px;
+	left: 1430px;
+
+}
+
+.n11:hover {
+	top: 600px;
+	background-color: rgb(60, 100, 30);
+}
+
+.n12 {
+	width: 50px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 600px;
+	left: 1490px;
+}
+
+.n12:hover {
+	top: 670px;
+	background-color: rgb(40, 150, 30);
+
+}
+
+.n13 {
+	width: 50px;
+	height: 400px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 100px;
+	left: 1490px;
+}
+
+.n13:hover {
+	top: 400px;
+	background-color: rgb(70, 250, 100);
+
+}
+
+.g1 {
+	width: 230px;
+	height: 50px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 100px;
+	left: 1630px;
+}
+
+.g1:hover {
+	transform: rotate(45deg);
+	background-color: rgb(50, 200, 60);
+}
+
+.g2 {
+	width: 50px;
+	height: 50px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 150px;
+	left: 1810px;
+}
+
+.g2:hover {
+	transform: rotate(30deg);
+	background-color: rgb(40, 150, 20);
+}
+
+.g3 {
+	width: 100px;
+	height: 100px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 150px;
+	left: 1590px;
+}
+
+.g3:hover {
+	transform: rotate(60deg);
+	background-color: rgb(60, 250, 20);
+}
+
+.g4 {
+	width: 60px;
+	height: 350px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 200px;
+	left: 1630px;
+}
+
+.g4:hover {
+	transform: rotate(100deg);
+	background-color: rgb(32, 180, 63);
+}
+
+.g5 {
+	width: 100px;
+	height: 100px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 500px;
+	left: 1590px;
+}
+
+.g5:hover {
+	transform: rotate(120deg);
+	background-color: rgb(40, 250, 20);
+}
+
+.g6 {
+	width: 228px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 600px;
+	left: 1620px;
+}
+
+.g6:hover {
+	transform: rotate(90deg);
+	background-color: rgb(100, 270, 20);
+}
+
+.g7 {
+	width: 30px;
+	height: 150px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 500px;
+	left: 1810px;
+}
+
+.g7:hover {
+	transform: rotate(32deg);
+	background-color: rgb(20, 250, 20);
+}
+
+.g8 {
+	width: 40px;
+	height: 120px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 500px;
+	left: 1840px;
+}
+
+.g8:hover {
+	transform: rotate(80deg);
+	background-color: rgb(105, 270, 20);
+}
+
+.g9 {
+	width: 110px;
+	height: 80px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 430px;
+	left: 1770px;
+}
+
+.g9:hover {
+	transform: rotate(35deg);
+	background-color: rgb(10, 200, 30);
+}
+
+.g10 {
+	width: 75px;
+	height: 75px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 430px;
+	left: 1900px;
+}
+
+.g10:hover {
+	transform: rotate(50deg);
+	background-color: rgb(23, 240, 15);
+}
+
+.g11 {
+	width: 110px;
+	height: 100px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 520px;
+	left: 1870px;
+}
+
+.g11:hover {
+	transform: rotate(70deg);
+	background-color: rgb(22, 260, 20);
+}
+
+.g12 {
+	width: 50px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 600px;
+	left: 1930px;
+}
+
+.g12:hover {
+	transform: rotate(36deg);
+	background-color: rgb(34, 250, 20);
+}
+
+
+.e1 {
+	width: 260px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 100px;
+	left: 2040px;
+	transition: width 1.5s ease-in-out;
+}
+
+.e1:hover {
+	background-color: rgb(32, 180, 63);
+	width: 100px;
+}
+
+.e2 {
+	width: 60px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 100px;
+	left: 2320px;
+	transition: width 1.5s ease-in-out;
+}
+
+.e2:hover {
+	background-color: rgb(32, 180, 63);
+	width: 300px;
+}
+
+.e3 {
+	width: 130px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 150px;
+	left: 1999px;
+	transition: width 1.5s ease-in-out;
+}
+
+.e3:hover {
+	background-color: rgb(32, 180, 63);
+	width: 350px;
+}
+
+.e4 {
+	width: 75px;
+	height: 458px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 200px;
+	left: 2000px;
+	transition: width 1.5s ease-in-out;
+}
+
+.e4:hover {
+	background-color: rgb(32, 180, 63);
+	width: 20px;
+}
+
+.e5 {
+	width: 50px;
+	height: 120px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 330px;
+	left: 2070px;
+	transition: width 1.5s ease-in-out;
+}
+
+.e5:hover {
+	background-color: rgb(32, 180, 63);
+	width: 100px;
+}
+
+.e6 {
+	width: 140px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 360px;
+	left: 2090px;
+	transition: width 1.5s ease-in-out;
+}
+
+.e6:hover {
+	background-color: rgb(32, 180, 63);
+	width: 350px;
+}
+
+.e7 {
+	width: 50px;
+	height: 110px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 548px;
+	left: 2070px;
+	transition: width 1.5s ease-in-out;
+
+}
+
+.e7:hover {
+	background-color: rgb(32, 180, 63);
+	width: 20px;
+}
+
+.e8 {
+	width: 140px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 597px;
+	left: 2110px;
+	transition: width 1.5s ease-in-out;
+}
+
+.e8:hover {
+	background-color: rgb(32, 180, 63);
+	width: 100px;
+}
+
+.e9 {
+	width: 130px;
+	height: 60px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 597px;
+	left: 2270px;
+	transition: width 1.5s ease-in-out;
+}
+
+.e9:hover {
+	background-color: rgb(32, 180, 63);
+	width: 200px;
+}
+
+.s1 {
+	width: 190px;
+	height: 80px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 100px;
+	left: 2500px;
+	transition: background-color 1s ease-in-out;
+}
+
+.s1:hover {
+	transform: skew(45deg);
+	background-color: rgb(40, 200, 10);
+}
+
+.s2 {
+	width: 170px;
+	height: 80px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 150px;
+	left: 2440px;
+	transition: background-color 1s ease-in-out;
+}
+
+.s2:hover {
+	transform: skew(25deg);
+	background-color: rgb(20, 200, 10);
+}
+
+.s3 {
+	width: 100px;
+	height: 60px;
+	background-color: rgba(0, 0, 0);
+	position: absolute;
+	top: 230px;
+	left: 2440px;
+	transition: background-color 1s ease-in-out;
+}
+
+.s3:hover {
+	transform: skew(30deg);
+	background-color: rgb(35, 200, 10);
+}
+
+.s4 {
+	width: 150px;
+	height: 80px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 100px;
+	left: 2710px;
+	transition: background-color 1s ease-in-out;
+}
+
+.s4:hover {
+	transform: skew(15deg);
+	background-color: rgb(29, 200, 10);
+}
+
+.s5 {
+	width: 90px;
+	height: 30px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 178px;
+	left: 2860px;
+	transition: background-color 1s ease-in-out;
+}
+
+.s5:hover {
+	transform: skew(50deg);
+	background-color: rgb(60, 200, 10);
+}
+
+.s6 {
+	width: 100px;
+	height: 140px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 300px;
+	left: 2440px;
+	transition: background-color 1s ease-in-out;
+}
+
+.s6:hover {
+	transform: skew(20deg);
+	background-color: rgb(20, 200, 10);
+}
+
+.s7 {
+	width: 100px;
+	height: 140px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 340px;
+	left: 2500px;
+	transition: background-color 1s ease-in-out;
+}
+
+.s7:hover {
+	transform: skew(15deg);
+	background-color: rgb(40, 200, 10);
+}
+
+.s8 {
+	width: 90px;
+	height: 287px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 369px;
+	left: 2580px;
+	transition: width 1.5s ease-in-out;
+	
+}
+
+.s8:hover {
+	background-color: rgb(32, 180, 63);
+	width: 265px;
+}
+
+.s9 {
+	width: 130px;
+	height: 100px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 555px;
+	left: 2470px;
+	transition: width 1.5s ease-in-out;
+
+}
+
+.s9:hover {
+	background-color: rgb(40, 200, 63);
+	width: 20px;
+}
+
+.s10 {
+	width: 70px;
+	height: 40px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 528px;
+	left: 2400px;
+	transition: width 1.5s ease-in-out;
+}
+
+.s10:hover {
+	background-color: rgb(100, 180, 63);
+	width: 800px;
+}
+
+.s11 {
+	width: 250px;
+	height: 120px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 420px;
+	left: 2600px;
+	transition: width 1.5s ease-in-out;
+}
+
+.s11:hover {
+	background-color: rgb(120, 260, 63);
+	width: 810px;
+}
+
+.s12 {
+	width: 112px;
+	height: 112px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 545px;
+	left: 2680px;
+	transition: width 1.5s ease-in-out;
+}
+
+.s12:hover {
+	background-color: rgb(110, 180, 63);
+	width: 600px;
+}
+
+.s13 {
+	width: 70px;
+	height: 40px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 379px;
+	left: 2740px;
+	transition: width 1.5s ease-in-out;
+}
+
+.s13:hover {
+	background-color: rgb(60, 180, 63);
+	width: 500px;
+}
+
+.s14 {
+	width: 50px;
+	height: 50px;
+	background-color: rgb(0, 0, 0);
+	position: absolute;
+	top: 525px;
+	left: 2800px;
+	transition: width 1.5s ease-in-out;
+}
+
+.s14:hover {
+	background-color: rgb(40, 190, 45);
+	width: 400px;
+}
+
+p {
+	width: 600px;
+	color: rgb(0, 0, 0);
+	font-family: Courier;
+	font-size: 25px;
+	line-height: 27px;
+	text-align: left;
+	letter-spacing: 0px;
+
+}
+
+h1 {
+	color: rgb(0, 0, 0);
+	width: 800px;
+	font-family: Courier;
+	font-size: 80px;
+	line-height: 30px;
+	font-weight: bold;
+	letter-spacing: 2px;
+
+}

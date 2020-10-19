@@ -1,0 +1,31 @@
+h1 {
+	position: absolute;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 70px;
+	font-weight: 400;
+	top: 60px;
+	left: 30px;
+	transform: rotate(-30deg);
+	color: rgb(40, 90, 200);
+}
+
+p {
+	position: absolute;
+	font-family: 'Inconsolata', monospace;
+	font-size: 28px;
+	line-height: 26px; 
+	top: 500px;
+	left: 30px;
+	color: rgb(40, 90, 300);
+}
+
+.background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-image: url("lunapicture.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+

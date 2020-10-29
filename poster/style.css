@@ -11,30 +11,39 @@
 }
 
 h1 {
-	font-family: 'Cabin', sans-serif;
+	font-family: 'Unna', serif;
 	color: white;
-	font-size: 80px;
+	font-size: 90px;
 	position: absolute;
 	top: -50px;
 	left: 20px;
 }
 
 h2 {
-	font-family: 'Cabin', sans-serif;
+	font-family: 'Unna', serif;
 	color: white;
-	font-size: 70px;
+	font-size: 80px;
 	position: absolute;
-	top: 20px;
+	top: 22px;
 	left: 20px;
 }
 
 .ariana {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 60px;
+	font-size: 65px;
 	position: absolute;
-	top: 147px;
-	left: 60px;
+	top: 158px;
+	left: 80px;
+}
+
+.grande {
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: white;
+	font-size: 65px; 
+	position: absolute;
+	top: 158px;
+	left: 234px;
 }
 
 .date {
@@ -43,7 +52,7 @@ h2 {
 	font-size: 50px;
 	position: absolute;
 	top: 296px;
-	left: 25px;
+	left: 35px;
 }
 
 .time {
@@ -52,7 +61,7 @@ h2 {
 	font-size: 50px;
 	position: absolute;
 	top: 340px;
-	left: 24px;
+	left: 35px;
 }
 
 .ticket {
@@ -61,7 +70,7 @@ h2 {
 	font-size: 50px;
 	position: absolute;
 	top: 460px;
-	left: 25px;
+	left: 35px;
 }
 
 .location {
@@ -70,7 +79,7 @@ h2 {
 	font-size: 50px;
 	position: absolute;
 	top: 100px;
-	left: 1060px;
+	left: 1065px;
 }
 
 .location2 {
@@ -79,7 +88,16 @@ h2 {
 	font-size: 50px;
 	position: absolute;
 	top: 150px;
-	left: 1060px;
+	left: 1065px;
+}
+
+.location3 {
+	font-family: 'PT Sans Narrow', sans-serif;
+	color: white;
+	font-size: 50px;
+	position: absolute;
+	top: 150px;
+	left: 1190px;
 }
 
 .address {
@@ -149,80 +167,97 @@ h2 {
 
 @media (max-width: 375px) {
 	h1 {
-		font-size: 65px;
-		top: 30px;
-		left: 35px;
+		font-size: 68px;
+		top: 25px;
+		left: 60px;
+		color: rgb(139, 0, 139);
 	}
+
 	h2 {
-		font-size: 60px;
-		top: 81px;
-		left: 40px;
+		font-size: 64px;
+		top: 78px;
+		left: 50px;
+		color: rgb(139, 0, 139);
 	}
 	.ariana {
-		top: 210px;
-		left: 50px;
+		top: 205px;
+		left: 110px;
+		font-size: 67px;
+		color: 	rgb(139,0,139);
+	}
+
+	.grande {
+		top: 260px;
+		left: 135px;
+		font-size: 67px;
+		color: 	rgb(139,0,139);
 	}
 	.date {
 		font-size: 27px;
-		top: 400px;
+		top: 375px;
 		left: 9px;
 	}
 	.time {
 		font-size: 27px;
-		top: 425px;
+		top: 405px;
 		left: 9px;
 	}
 	.ticket {
 		font-size: 27px;
-		top: 600px;
+		top: 568px;
 		left: 9px;
 	}
 	.location {
 		font-size: 27px;
-		top: 456px;
+		top: 440px;
 		left: 9px;
 	}
 	.location2 {
 		font-size: 27px;
-		top: 480px;
-		left: 9px;
+		top: 440px;
+		left: 95px;
 	}
+    .location3 {
+    	font-size: 27px;
+    	top: 468px;
+    	left: 9px;
+    }
 	.address {
 		font-size: 27px;
-		top: 515px;
+		top: 500px;
 		left: 9px;
 	}
 	.address2 {
 		font-size: 27px;
-		top: 515px;
+		top: 500px;
 		left: 25px;
 	}
 	.address3 {
 		font-size: 27px;
-		top: 538px;
-		left: 9px;
+		top: 500px;
+		left: 150px;
 	}
 	.zipcode {
 		font-size: 27px;
-		top: 538px;
-		left: 65px;
+		top: 528px;
+		left: 9px;
 	}
 	.zipcode2 {
 		font-size: 27px;
-		top: 538px;
-		left: 110px;
+		top: 528px;
+		left: 56px;
 	}
 	.zipcode3 {
 		font-size: 27px;
-		top: 563px;
-		left: 9px;
+		top: 528px;
+		left: 107px;
 	}
 	.zipcode4 {
 		font-size: 27px;
-		top: 563px;
-		left: 40px;
+		top: 528px;
+		left: 139px;
 	}
 	.background {
-		background-image: url("mobileariana.jpg");
+		background-image: url("ariana2.jpg");
 	}
 }

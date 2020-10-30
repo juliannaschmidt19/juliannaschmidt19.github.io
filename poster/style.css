@@ -11,63 +11,63 @@
 }
 
 h1 {
-	font-family: 'Unna', serif;
-	color: white;
-	font-size: 90px;
+	font-family: 'Unica One', cursive;
+	color: rgb(232, 153, 243);
+	font-size: 96px;
 	position: absolute;
 	top: -50px;
-	left: 20px;
+	left: 23px;
 }
 
 h2 {
-	font-family: 'Unna', serif;
-	color: white;
-	font-size: 80px;
+	font-family: 'Unica One', cursive;
+	color: rgb(232, 153, 243);
+	font-size: 86px;
 	position: absolute;
 	top: 22px;
-	left: 20px;
+	left: 29px;
 }
 
 .ariana {
 	font-family: 'PT Sans Narrow', sans-serif;
-	color: white;
+	color: rgb(218, 82, 237);
 	font-size: 65px;
 	position: absolute;
-	top: 158px;
-	left: 80px;
+	top: 170px;
+	left: 104px;
 }
 
 .grande {
 	font-family: 'PT Sans Narrow', sans-serif;
-	color: white;
+	color: rgb(218, 82, 237);
 	font-size: 65px; 
 	position: absolute;
-	top: 158px;
-	left: 234px;
+	top: 170px;
+	left: 260px;
 }
 
 .date {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
 	top: 296px;
-	left: 35px;
+	left: 40px;
 }
 
 .time {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
 	top: 340px;
-	left: 35px;
+	left: 40px;
 }
 
 .ticket {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
 	top: 460px;
 	left: 35px;
@@ -76,186 +76,186 @@ h2 {
 .location {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
 	top: 100px;
-	left: 1065px;
+	left: 1083px;
 }
 
 .location2 {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
-	top: 150px;
-	left: 1065px;
+	top: 146px;
+	left: 1083px;
 }
 
 .location3 {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
-	top: 150px;
-	left: 1190px;
+	top: 146px;
+	left: 1188px;
 }
 
 .address {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
-	top: 300px;
-	left: 1060px;
+	top: 309px;
+	left: 1078px;
 }
 
 .address2 {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
-	top: 300px;
-	left: 1090px;
+	top: 309px;
+	left: 1103px;
 }
 
 .address3 {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
-	top: 300px;
-	left: 1320px;
+	top: 309px;
+	left: 1294px;
 }
 
 .zipcode {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
-	top: 350px;
-	left: 1060px;
+	top: 358px;
+	left: 1078px;
 }
 
 .zipcode2 {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
-	top: 350px;
-	left: 1140px;
+	top: 358px;
+	left: 1147px;
 }
 
 .zipcode3 {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
-	top: 350px;
-	left: 1228px;
+	top: 358px;
+	left: 1223px;
 }
 
 .zipcode4 {
 	font-family: 'PT Sans Narrow', sans-serif;
 	color: white;
-	font-size: 50px;
+	font-size: 40px;
 	position: absolute;
-	top: 350px;
-	left: 1290px;
+	top: 358px;
+	left: 1275px;
 
 }
 
 
 @media (max-width: 375px) {
 	h1 {
-		font-size: 68px;
+		font-size: 70px;
 		top: 25px;
-		left: 60px;
+		left: 54px;
 		color: rgb(139, 0, 139);
 	}
 
 	h2 {
-		font-size: 64px;
+		font-size: 67px;
 		top: 78px;
-		left: 50px;
+		left: 61px;
 		color: rgb(139, 0, 139);
 	}
 	.ariana {
 		top: 205px;
-		left: 110px;
-		font-size: 67px;
-		color: 	rgb(139,0,139);
+		left: 249px;
+		font-size: 50px;
+		color: 	rgb(145,0,145);
 	}
 
 	.grande {
-		top: 260px;
-		left: 135px;
-		font-size: 67px;
-		color: 	rgb(139,0,139);
+		top: 255px;
+		left: 242px;
+		font-size: 50px;
+		color: 	rgb(145,0,145);
 	}
 	.date {
-		font-size: 27px;
+		font-size: 24px;
 		top: 375px;
 		left: 9px;
 	}
 	.time {
-		font-size: 27px;
-		top: 405px;
+		font-size: 24px;
+		top: 403px;
 		left: 9px;
 	}
 	.ticket {
-		font-size: 27px;
+		font-size: 24px;
 		top: 568px;
 		left: 9px;
 	}
 	.location {
-		font-size: 27px;
+		font-size: 24px;
 		top: 440px;
 		left: 9px;
 	}
 	.location2 {
-		font-size: 27px;
+		font-size: 24px;
 		top: 440px;
-		left: 95px;
+		left: 86px;
 	}
     .location3 {
-    	font-size: 27px;
+    	font-size: 24px;
     	top: 468px;
     	left: 9px;
     }
 	.address {
-		font-size: 27px;
-		top: 500px;
+		font-size: 24px;
+		top: 505px;
 		left: 9px;
 	}
 	.address2 {
-		font-size: 27px;
-		top: 500px;
-		left: 25px;
+		font-size: 24px;
+		top: 505px;
+		left: 24px;
 	}
 	.address3 {
-		font-size: 27px;
-		top: 500px;
-		left: 150px;
+		font-size: 24px;
+		top: 505px;
+		left: 140px;
 	}
 	.zipcode {
-		font-size: 27px;
-		top: 528px;
+		font-size: 24px;
+		top: 531px;
 		left: 9px;
 	}
 	.zipcode2 {
-		font-size: 27px;
-		top: 528px;
-		left: 56px;
+		font-size: 24px;
+		top: 531px;
+		left: 52px;
 	}
 	.zipcode3 {
-		font-size: 27px;
-		top: 528px;
-		left: 107px;
+		font-size: 24px;
+		top: 531px;
+		left: 97px;
 	}
 	.zipcode4 {
-		font-size: 27px;
-		top: 528px;
-		left: 139px;
+		font-size: 24px;
+		top: 531px;
+		left: 128px;
 	}
 	.background {
 		background-image: url("ariana2.jpg");

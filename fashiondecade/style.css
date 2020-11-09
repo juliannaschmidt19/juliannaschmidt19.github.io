@@ -1,0 +1,125 @@
+.background {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-image: url("collagedecade.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family: 'Fjalla One', sans-serif;
+	color: rgb(105, 105, 105);
+	font-size: 100px;
+	position: absolute;
+	top: -19px;
+	left: 28px;
+}
+
+h2 {
+	font-family: 'Fjalla One', sans-serif;
+	color: rgb(244, 194, 194);
+	font-size: 100px; 
+	position: absolute;
+	top: -35px;
+	left: 38px;
+}
+
+h3 {
+	font-family: 'Fjalla One', sans-serif;
+	color: rgb(105, 105, 105);
+	font-size: 70px;
+	position: absolute;
+	top: 260px;
+	left: 40px;
+}
+
+h4 {
+	font-family: 'Fjalla One', sans-serif;
+	color: rgb(244, 194, 194);
+	font-size: 70px;
+	position: absolute;
+	top: 240px;
+	left: 48px;
+}
+
+h5 {
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	font-size: 60px;
+	position: absolute;
+	top: 360px;
+	left: 48px;
+}
+
+h6 {
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	font-size: 60px;
+	position: absolute;
+	top: 318px;
+	left: 300px;
+}
+
+p {
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	font-size: 60px;
+	position: absolute;
+	top: 398px;
+	left: 685px;
+}
+
+text {
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	font-size: 60px;
+	position: absolute;
+	top: 458px;
+	left: 900px;
+}
+
+b {
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	font-size: 60px;
+	position: absolute;
+	top: 460px;
+	left: 1120px;
+}
+
+strong {
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	font-size: 60px;
+	position: absolute;
+	top: 600px;
+	left: 50px;
+}
+
+sub {
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	font-size: 60px;
+	position: absolute;
+	top: 600px;
+	left: 270px;
+}
+
+small {
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	font-size: 60px;
+	position: absolute;
+	top: 600px;
+	left: 500px;
+}
+
+
+
+
+
+

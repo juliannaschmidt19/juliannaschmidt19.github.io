@@ -1,0 +1,117 @@
+h1 {
+	position: absolute;
+	font-family: 'Righteous', cursive;
+	color: rgb(169, 39, 10);
+	font-size: 50px;
+	top: -40px;
+	left: 10px;
+}
+
+h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 18px;
+	position: absolute;
+	top: 35px;
+	left: 10px;
+}
+
+.relative-image {
+	position: relative;
+	width: 300px;
+	height: 400px;
+	top: 213px;
+	margin-bottom: 15px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.ninthirtyone {
+	background-image: url("ninthirtyone.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninthirtyone:hover {
+	top: 200px;
+}
+
+.ninthirtytwo {
+	background-image: url("ninthirtytwo.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninthirtytwo:hover {
+	top: 200px;
+}
+
+.ninthirtythree {
+	background-image: url("ninthirtythree.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninthirtythree:hover {
+	top: 200px;
+}
+
+.ninthirtyfour {
+	background-image: url("ninthirtyfour.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninthirtyfour:hover {
+	top: 200px;
+}
+
+.ninfourtyone {
+	background-image: url("ninfourtyone.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfourtyone:hover {
+	top: 200px;
+}
+
+.ninfourtytwo {
+	background-image: url("ninfourtytwo.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfourtytwo:hover {
+	top: 200px;
+}
+
+.ninfourtythree {
+	background-image: url("ninfourtythree.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfourtythree:hover {
+	top: 200px;
+}
+
+.ninfourtyfour {
+	background-image: url("ninfourtyfour.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfourtyfour:hover {
+	top: 200px;
+}
+
+
+.ninfourty {
+	background-image: url("ninfourty.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfourty:hover {
+	top: 200px;
+}

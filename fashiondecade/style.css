@@ -4,122 +4,124 @@
 	left: 0;
 	width: 100vw;
 	height: 100vh;
-	background-image: url("collagedecade.jpg");
+	opacity: 90%;
+	background-image: url("designlayout4.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 h1 {
-	font-family: 'Fjalla One', sans-serif;
-	color: rgb(105, 105, 105);
-	font-size: 100px;
+	font-family: 'Righteous', cursive;
+	color: white;
+	font-size: 80px;
 	position: absolute;
 	top: -19px;
 	left: 28px;
 }
 
-h2 {
-	font-family: 'Fjalla One', sans-serif;
-	color: rgb(244, 194, 194);
-	font-size: 100px; 
+.rectangle{
 	position: absolute;
-	top: -35px;
-	left: 38px;
+	width: 100px;
+	height: 50px;
+	background-color: rgb(169, 39, 10);
+}
+
+h2 {
+	font-family: 'Righteous', cursive;
+	color: white;
+	font-size: 55px;
+	position: absolute;
+	top: 230px;
+	left: 28px;
 }
 
 h3 {
-	font-family: 'Fjalla One', sans-serif;
-	color: rgb(105, 105, 105);
+	font-family: 'Righteous', cursive;
+	color: white;
 	font-size: 70px;
 	position: absolute;
-	top: 260px;
-	left: 40px;
+	top: 320px;
+	left: 35px;
 }
 
 h4 {
-	font-family: 'Fjalla One', sans-serif;
-	color: rgb(244, 194, 194);
+	font-family: 'Righteous', cursive;
+	color: white;
 	font-size: 70px;
 	position: absolute;
-	top: 240px;
-	left: 48px;
+	top: 300px;
+	left: 290px;
 }
 
 h5 {
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Righteous', cursive;
 	color: white;
-	font-size: 60px;
+	font-size: 70px;
 	position: absolute;
-	top: 360px;
-	left: 48px;
-}
-
-h6 {
-	font-family: 'Fjalla One', sans-serif;
-	color: white;
-	font-size: 60px;
-	position: absolute;
-	top: 318px;
-	left: 300px;
-}
-
-p {
-	font-family: 'Fjalla One', sans-serif;
-	color: white;
-	font-size: 60px;
-	position: absolute;
-	top: 398px;
-	left: 685px;
+	top: 280px;
+	left: 750px;
 }
 
 text {
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Righteous', cursive;
 	color: white;
-	font-size: 60px;
+	font-size: 70px;
 	position: absolute;
-	top: 458px;
-	left: 900px;
+	top: 400px;
+	left: 1030px;
 }
 
 b {
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Righteous', cursive;
 	color: white;
-	font-size: 60px;
+	font-size: 70px;
 	position: absolute;
-	top: 460px;
-	left: 1120px;
+	top: 540px;
+	left: 35px;
 }
 
 strong {
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Righteous', cursive;
 	color: white;
-	font-size: 60px;
+	font-size: 70px;
 	position: absolute;
-	top: 600px;
-	left: 50px;
+	top: 540px;
+	left: 330px;
 }
 
 sub {
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Righteous', cursive;
 	color: white;
-	font-size: 60px;
+	font-size: 70px;
 	position: absolute;
-	top: 600px;
-	left: 270px;
+	top: 540px;
+	left: 620px;
 }
 
 small {
-	font-family: 'Fjalla One', sans-serif;
+	font-family: 'Righteous', cursive;
 	color: white;
-	font-size: 60px;
+	font-size: 70px;
 	position: absolute;
-	top: 600px;
-	left: 500px;
+	top: 540px;
+	left: 900px;
+	
 }
 
+relative-box {
+	position: relative;
+	top: 20px;
+	left: 10px;
+	width: 200px;
+	height: 200px;
+	background-color: rgb(222, 21, 40);
+}
 
-
+img {
+	height: 100px;
+	width: 100px;
+}
 
 
 

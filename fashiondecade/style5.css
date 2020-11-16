@@ -1,0 +1,224 @@
+h1 {
+	position: absolute;
+	font-family: 'Righteous', cursive;
+	color: rgb(169, 39, 10);
+	font-size: 50px;
+	top: -40px;
+	left: 10px;
+}
+
+h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 16px;
+	position: absolute;
+	top: 38px;
+	left: 10px;
+}
+
+.relative-image {
+	position: relative;
+	width: 300px;
+	height: 400px;
+	top: 230px;
+	margin-bottom: 15px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.greaser {
+	background-image: url("greaser.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.greaser:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.greaser1 {
+	background-image: url("greaser1.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.greaser1:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.greaser2 {
+	background-image: url("greaser2.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.greaser2:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.greaser3 {
+	background-image: url("greaser3.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.greaser3:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.greaser4 {
+	background-image: url("greaser4.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.greaser4:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.greaser6 {
+	background-image: url("greaser6.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.greaser6:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.greaser7 {
+	background-image: url("greaser7.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.greaser7:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.greaser8 {
+	background-image: url("greaser8.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.greaser8:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.hippie {
+	background-image: url("hippie.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hippie:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.hippie1 {
+	background-image: url("hippie1.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hippie1:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.hippie2 {
+	background-image: url("hippie2.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hippie2:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.hippie3 {
+	background-image: url("hippie3.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hippie3:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.hippie4 {
+	background-image: url("hippie4.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hippie4:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.ninsixty {
+	background-image: url("ninsixty.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixty:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.ninsixtyone {
+	background-image: url("ninsixtyone.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixtyone:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.ninsixtytwo {
+	background-image: url("ninsixtytwo.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixtytwo:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.ninsixtythree {
+	background-image: url("ninsixtythree.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixtythree:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.ninsixtyfour {
+	background-image: url("ninsixtyfour.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixtyfour:hover {
+	width: 300px;
+	height: 300px;
+}

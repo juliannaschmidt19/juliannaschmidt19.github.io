@@ -1,0 +1,116 @@
+h1 {
+	position: absolute;
+	font-family: 'Righteous', cursive;
+	color: rgb(169, 39, 10);
+	font-size: 50px;
+	top: -40px;
+	left: 10px;
+}
+
+h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 19px;
+	position: absolute;
+	top: 35px;
+	left: 10px;
+}
+
+.relative-image {
+	position: relative;
+	width: 300px;
+	height: 400px;
+	top: 200px;
+	margin-bottom: 15px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.flapper2 {
+	background-image: url("flapper2.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	transition: all 3% ease-in-out;
+}
+.flapper2:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.flapper5 {
+	background-image: url("flapper5.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	transition: all 3% ease-in-out;
+}
+.flapper5:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.flapper6 {
+	background-image: url("flapper6.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.flapper6:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.flapper7 {
+	background-image: url("flapper7.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.flapper7:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.malefashion1 {
+	background-image: url("malefashion1.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.malefashion1:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.malefashion2 {
+	background-image: url("malefashion2.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.malefashion2:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.malefashion3 {
+	background-image: url("malefashion3.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.malefashion3:hover {
+	width: 300px;
+	height: 300px;
+}
+
+.malefashion5 {
+	background-image: url("malefashion5.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.malefashion5:hover {
+	width: 300px;
+	height: 300px;
+}

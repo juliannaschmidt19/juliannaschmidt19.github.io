@@ -1,0 +1,116 @@
+h1 {
+	position: absolute;
+	font-family: 'Righteous', cursive;
+	color: rgb(169, 39, 10);
+	font-size: 50px;
+	top: -40px;
+	left: 10px;
+}
+
+h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 18px;
+	position: absolute;
+	top: 35px;
+	left: 10px;
+}
+
+.relative-image {
+	position: relative;
+	width: 300px;
+	height: 400px;
+	top: 213px;
+	margin-bottom: 15px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.ninfiftyone {
+	background-image: url("ninfiftyone.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfiftyone:hover {
+	top: 200px;
+}
+
+.ninfiftytwo {
+	background-image: url("ninfiftytwo.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfiftytwo:hover {
+	top: 200px;
+}
+
+.ninfiftythree {
+	background-image: url("ninfiftythree.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfiftythree:hover {
+	top: 200px;
+}
+
+.ninfiftyfour {
+	background-image: url("ninfiftyfour.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfiftyfour:hover {
+	top: 200px;
+}
+
+.ninfiftyfive {
+	background-image: url("ninfiftyfive.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfiftyfive:hover {
+	top: 200px;
+}
+
+.ninfiftysix {
+	background-image: url("ninfiftysix.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfiftysix:hover {
+	top: 200px;
+}
+
+.ninfiftyseven {
+	background-image: url("ninfiftyseven.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfiftyseven:hover {
+	top: 200px;
+}
+
+.ninfiftyeight {
+	background-image: url("ninfiftyeight.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfiftyeight:hover {
+	top: 200px;
+}
+
+.ninfiftynine {
+	background-image: url("ninfiftynine.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninfiftynine:hover {
+	top: 200px;
+}

@@ -11,7 +11,7 @@ h2 {
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 18px;
 	position: absolute;
-	top: 35px;
+	top: 40px;
 	left: 20px;
 	line-height: 25px;
 }
@@ -21,7 +21,7 @@ h3 {
 	font-family: 'Righteous', cursive;
 	color: rgb(169, 39, 10);
 	font-size: 50px;
-	top: 1890px;
+	top: 2400px;
 	left: 10px;
 }
 
@@ -29,7 +29,7 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 259px;
+	top: 350px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
@@ -40,249 +40,290 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 340px;
+	top: 430px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
 	display: inline-block;
 }
 
-.ninfiftyone {
-	background-image: url("ninfiftyone.jpg");
+
+.ninnineone {
+	background-image: url("ninnineone.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyone:hover {
+.ninnineone:hover {
 	top: 200px;
 }
 
-.ninfiftytwo {
-	background-image: url("ninfiftytwo.jpg");
+.ninninetwo {
+	background-image: url("ninninetwo.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftytwo:hover {
+.ninninetwo:hover {
 	top: 200px;
 }
 
-.ninfiftythree {
-	background-image: url("ninfiftythree.jpg");
+.ninninethree {
+	background-image: url("ninninethree.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftythree:hover {
+.ninninethree:hover {
 	top: 200px;
 }
 
-.ninfiftyfour {
-	background-image: url("ninfiftyfour.jpg");
+.ninninefour {
+	background-image: url("ninninefour.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfour:hover {
+.ninninefour:hover {
 	top: 200px;
 }
 
-.ninfiftyfive {
-	background-image: url("ninfiftyfive.jpg");
+.ninninefive {
+	background-image: url("ninninefive.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfive:hover {
+.ninninefive:hover {
 	top: 200px;
 }
 
-.ninfiftysix {
-	background-image: url("ninfiftysix.jpg");
+.ninninesix {
+	background-image: url("ninninesix.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftysix:hover {
+.ninninesix:hover {
 	top: 200px;
 }
 
-.ninfiftyfourteen {
-	background-image: url("ninfiftyfourteen.jpg");
+.ninnineseven {
+	background-image: url("ninnineseven.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfourteen:hover {
+.ninnineseven:hover {
 	top: 200px;
 }
 
-.ninfiftyfifteen {
-	background-image: url("ninfiftyfifteen.jpg");
+.ninnineeight {
+	background-image: url("ninnineeight.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfifteen:hover {
+.ninnineeight:hover {
 	top: 200px;
 }
 
-.ninfiftysixteen {
-	background-image: url("ninfiftysixteen.jpg");
+.ninninenine {
+	background-image: url("ninninenine.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftysixteen:hover {
+.ninninenine:hover {
 	top: 200px;
 }
 
-.ninfiftyten {
-	background-image: url("ninfiftyten.jpg");
+.ninnineten {
+	background-image: url("ninnineten.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyten:hover {
+.ninnineten:hover {
 	top: 200px;
 }
 
-.ninfiftyeleven {
-	background-image: url("ninfiftyeleven.jpg");
+.ninnineeleven {
+	background-image: url("ninnineeleven.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyeleven:hover {
+.ninnineeleven:hover {
 	top: 200px;
 }
 
-.ninfiftytwelve {
-	background-image: url("ninfiftytwelve.jpg");
+.ninninetwelve {
+	background-image: url("ninninetwelve.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftytwelve:hover {
+.ninninetwelve:hover {
 	top: 200px;
 }
 
-.ninfiftythirteen {
-	background-image: url("ninfiftythirteen.jpg");
+.ninninethirteen {
+	background-image: url("ninninethirteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftythirteen:hover {
+.ninninethirteen:hover {
 	top: 200px;
 }
 
-.ninfiftyseven {
-	background-image: url("ninfiftyseven.jpg");
+.ninninefourteen {
+	background-image: url("ninninefourteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyseven:hover {
+.ninninefourteen:hover {
 	top: 200px;
 }
 
-.ninfiftyeight {
-	background-image: url("ninfiftyeight.jpg");
+.ninninefifteen {
+	background-image: url("ninninefifteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyeight:hover {
+.ninninefifteen:hover {
 	top: 200px;
 }
 
-.ninfiftynine {
-	background-image: url("ninfiftynine.jpg");
+.ninninesixteen {
+	background-image: url("ninninesixteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftynine:hover {
+.ninninesixteen:hover {
 	top: 200px;
 }
 
-.hairseven {
-	background-image: url("hairseven.jpg");
+.ninnineseventeen {
+	background-image: url("ninnineseventeen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.hairseven:hover {
+.ninnineseventeen:hover {
 	top: 200px;
 }
 
-.haireight {
-	background-image: url("haireight.jpg");
+.ninnineeighteen {
+	background-image: url("ninnineeighteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.haireight:hover {
+.ninnineeighteen:hover {
 	top: 200px;
 }
 
-.hairnine {
-	background-image: url("hairnine.jpg");
+.ninninenineteen {
+	background-image: url("ninninenineteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.hairnine:hover {
+.ninninenineteen:hover {
 	top: 200px;
 }
 
-.accseven {
-	background-image: url("accseven.jpg");
+.ninninetwenty {
+	background-image: url("ninninetwenty.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.accseven:hover {
+.ninninetwenty:hover {
 	top: 200px;
 }
 
-.acceight {
-	background-image: url("acceight.jpg");
+.hairnineteen {
+	background-image: url("hairnineteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.acceight:hover {
+.hairnineteen:hover {
 	top: 200px;
 }
 
-.accnine {
-	background-image: url("accnine.jpg");
+.hairtwenty {
+	background-image: url("hairtwenty.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.accnine:hover {
+.hairtwenty:hover {
 	top: 200px;
 }
 
-.makeupfive {
-	background-image: url("makeupfive.jpg");
+.hairtwentyone {
+	background-image: url("hairtwentyone.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.makeupfive:hover {
+.hairtwentyone:hover {
 	top: 200px;
 }
 
-.makeupsix {
-	background-image: url("makeupsix.jpg");
+.accnineteen {
+	background-image: url("accnineteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.makeupsix:hover {
+.accnineteen:hover {
+	top: 200px;
+}
+
+.acctwenty {
+	background-image: url("acctwenty.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.acctwenty:hover {
+	top: 200px;
+}
+
+.acctwentyone {
+	background-image: url("acctwentyone.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.acctwentyone:hover {
+	top: 200px;
+}
+
+.makeupthirteen {
+	background-image: url("makeupthirteen.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.makeupthirteen:hover {
+	top: 200px;
+}
+
+.makeupfourteen {
+	background-image: url("makeupfourteen.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.makeupfourteen:hover {
 	top: 200px;
 }

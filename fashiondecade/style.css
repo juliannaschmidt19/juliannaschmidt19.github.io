@@ -13,27 +13,31 @@
 
 h1 {
 	font-family: 'Righteous', cursive;
-	color: white;
+	color: rgb(243, 243, 240);
 	font-size: 80px;
 	position: absolute;
 	top: -19px;
 	left: 28px;
 }
-
-.rectangle{
+h1:after {
 	position: absolute;
-	width: 100px;
-	height: 50px;
+	bottom: -5px;
+	left: 0px;
+	width: 1080px;
+	height: 15px;
 	background-color: rgb(169, 39, 10);
+	content: "";
 }
 
 h2 {
 	font-family: 'Righteous', cursive;
-	color: white;
+	color: rgb(243, 243, 240);
 	font-size: 55px;
 	position: absolute;
 	top: 230px;
-	left: 28px;
+	left: 20px;
+	background-color: rgb(169, 39, 10);
+	padding-left: 10px;
 }
 
 h3 {
@@ -45,6 +49,22 @@ h3 {
 	left: 35px;
 }
 
+h3:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 20px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+h3:hover:after {
+    background-color: rgb(169, 39, 10);
+    width: 200px;
+    transition: width 1s ease-in-out;
+}
+
 h4 {
 	font-family: 'Righteous', cursive;
 	color: white;
@@ -52,6 +72,22 @@ h4 {
 	position: absolute;
 	top: 300px;
 	left: 290px;
+}
+
+h4:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 20px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+h4:hover:after {
+    background-color: rgb(169, 39, 10);
+    width: 400px;
+    transition: width 1s ease-in-out;
 }
 
 h5 {
@@ -63,6 +99,22 @@ h5 {
 	left: 750px;
 }
 
+h5:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 20px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+h5:hover:after {
+    background-color: rgb(169, 39, 10);
+    width: 200px;
+    transition: width 1s ease-in-out;
+}
+
 text {
 	font-family: 'Righteous', cursive;
 	color: white;
@@ -70,6 +122,22 @@ text {
 	position: absolute;
 	top: 400px;
 	left: 1030px;
+}
+
+text:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 20px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+text:hover:after {
+    background-color: rgb(169, 39, 10);
+    width: 200px;
+    transition: width 1s ease-in-out;
 }
 
 b {
@@ -81,6 +149,22 @@ b {
 	left: 35px;
 }
 
+b:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 20px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+b:hover:after {
+    background-color: rgb(169, 39, 10);
+    width: 200px;
+    transition: width 1s ease-in-out;
+}
+
 strong {
 	font-family: 'Righteous', cursive;
 	color: white;
@@ -88,6 +172,22 @@ strong {
 	position: absolute;
 	top: 540px;
 	left: 330px;
+}
+
+strong:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 20px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+strong:hover:after {
+    background-color: rgb(169, 39, 10);
+    width: 200px;
+    transition: width 1s ease-in-out;
 }
 
 sub {
@@ -99,6 +199,22 @@ sub {
 	left: 620px;
 }
 
+sub:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 20px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+sub:hover:after {
+    background-color: rgb(169, 39, 10);
+    width: 200px;
+    transition: width 1s ease-in-out;
+}
+
 small {
 	font-family: 'Righteous', cursive;
 	color: white;
@@ -107,6 +223,22 @@ small {
 	top: 540px;
 	left: 900px;
 	
+}
+
+small:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 20px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+small:hover:after {
+    background-color: rgb(169, 39, 10);
+    width: 200px;
+    transition: width 1s ease-in-out;
 }
 
 relative-box {

@@ -4,22 +4,46 @@ h1 {
 	color: rgb(169, 39, 10);
 	font-size: 50px;
 	top: -40px;
-	left: 10px;
+	left: 20px;
 }
 
 h2 {
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 19px;
 	position: absolute;
-	top: 35px;
+	top: 40px;
 	left: 10px;
+	margin-left: 10px;
+	line-height: 25px;
+
+}
+
+h3 {
+	position: absolute;
+	font-family: 'Righteous', cursive;
+	color: rgb(169, 39, 10);
+	font-size: 50px;
+	top: 1020px;
+	left: 20px;
 }
 
 .relative-image {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 200px;
+	top: 220px;
+	left: 35px;
+	margin-bottom: 15px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.inline-block {
+	position: relative;
+	width: 300px;
+	height: 400px;
+	top: 300px;
+	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
 	display: inline-block;
@@ -30,11 +54,10 @@ h2 {
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	transition: all 3% ease-in-out;
+	
 }
 .flapper2:hover {
-	width: 300px;
-	height: 300px;
+	top: 200px;
 }
 
 .flapper5 {
@@ -42,11 +65,10 @@ h2 {
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	transition: all 3% ease-in-out;
+	
 }
 .flapper5:hover {
-	width: 300px;
-	height: 300px;
+	top: 200px;
 }
 
 .flapper6 {
@@ -56,8 +78,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .flapper6:hover {
-	width: 300px;
-	height: 300px;
+	top: 200px;
 }
 
 .flapper7 {
@@ -67,8 +88,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .flapper7:hover {
-	width: 300px;
-	height: 300px;
+	top: 200px;
 }
 
 .malefashion1 {
@@ -78,8 +98,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .malefashion1:hover {
-	width: 300px;
-	height: 300px;
+	top: 200px;
 }
 
 .malefashion2 {
@@ -89,8 +108,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .malefashion2:hover {
-	width: 300px;
-	height: 300px;
+	top: 200px;
 }
 
 .malefashion3 {
@@ -100,8 +118,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .malefashion3:hover {
-	width: 300px;
-	height: 300px;
+	top: 200px;
 }
 
 .malefashion5 {
@@ -111,6 +128,85 @@ h2 {
 	background-repeat: no-repeat;
 }
 .malefashion5:hover {
-	width: 300px;
-	height: 300px;
+	top: 200px;
+}
+
+.hairone {
+	background-image: url("hairone.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hairone:hover {
+	top: 290px;
+}
+
+.hairtwo {
+	background-image: url("hairtwo.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hairtwo:hover {
+	top: 290px;
+}
+
+.hairthree {
+	background-image: url("hairthree.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hairthree:hover {
+	top: 290px;
+}
+
+.accone {
+	background-image: url("accone.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.accone:hover {
+	top: 290px;
+}
+
+.acctwo {
+	background-image: url("acctwo.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.acctwo:hover {
+	top: 290px;
+}
+
+.accthree {
+	background-image: url("accthree.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.accthree:hover {
+	top: 290px;
+}
+
+.makeupone {
+	background-image: url("makeupone.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.makeupone:hover {
+	top: 290px;
+}
+
+.makeuptwo {
+	background-image: url("makeuptwo.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.makeuptwo:hover {
+	top: 290px;
 }

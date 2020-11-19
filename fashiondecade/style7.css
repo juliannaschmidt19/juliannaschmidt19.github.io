@@ -11,7 +11,7 @@ h2 {
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 18px;
 	position: absolute;
-	top: 35px;
+	top: 40px;
 	left: 20px;
 	line-height: 25px;
 }
@@ -21,7 +21,7 @@ h3 {
 	font-family: 'Righteous', cursive;
 	color: rgb(169, 39, 10);
 	font-size: 50px;
-	top: 1890px;
+	top: 2420px;
 	left: 10px;
 }
 
@@ -29,7 +29,7 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 259px;
+	top: 370px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
@@ -40,249 +40,289 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 340px;
+	top: 450px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
 	display: inline-block;
 }
 
-.ninfiftyone {
-	background-image: url("ninfiftyone.jpg");
+.nineightone {
+	background-image: url("nineightone.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyone:hover {
+.nineightone:hover {
 	top: 200px;
 }
 
-.ninfiftytwo {
-	background-image: url("ninfiftytwo.jpg");
+.nineighttwo {
+	background-image: url("nineighttwo.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftytwo:hover {
+.nineighttwo:hover {
 	top: 200px;
 }
 
-.ninfiftythree {
-	background-image: url("ninfiftythree.jpg");
+.nineightthree {
+	background-image: url("nineightthree.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftythree:hover {
+.nineightthree:hover {
 	top: 200px;
 }
 
-.ninfiftyfour {
-	background-image: url("ninfiftyfour.jpg");
+.nineightfour {
+	background-image: url("nineightfour.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfour:hover {
+.nineightfour:hover {
 	top: 200px;
 }
 
-.ninfiftyfive {
-	background-image: url("ninfiftyfive.jpg");
+.nineightfive {
+	background-image: url("nineightfive.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfive:hover {
+.nineightfive:hover {
 	top: 200px;
 }
 
-.ninfiftysix {
-	background-image: url("ninfiftysix.jpg");
+.nineightsix {
+	background-image: url("nineightsix.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftysix:hover {
+.nineightsix:hover {
 	top: 200px;
 }
 
-.ninfiftyfourteen {
-	background-image: url("ninfiftyfourteen.jpg");
+.nineightseven {
+	background-image: url("nineightseven.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfourteen:hover {
+.nineightseven:hover {
 	top: 200px;
 }
 
-.ninfiftyfifteen {
-	background-image: url("ninfiftyfifteen.jpg");
+.nineighteight {
+	background-image: url("nineighteight.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfifteen:hover {
+.nineighteight:hover {
 	top: 200px;
 }
 
-.ninfiftysixteen {
-	background-image: url("ninfiftysixteen.jpg");
+.nineightnine {
+	background-image: url("nineightnine.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftysixteen:hover {
+.nineightnine:hover {
 	top: 200px;
 }
 
-.ninfiftyten {
-	background-image: url("ninfiftyten.jpg");
+.nineightten {
+	background-image: url("nineightten.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyten:hover {
+.nineightten:hover {
 	top: 200px;
 }
 
-.ninfiftyeleven {
-	background-image: url("ninfiftyeleven.jpg");
+.nineighteleven {
+	background-image: url("nineighteleven.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyeleven:hover {
+.nineighteleven:hover {
 	top: 200px;
 }
 
-.ninfiftytwelve {
-	background-image: url("ninfiftytwelve.jpg");
+.nineighttwelve {
+	background-image: url("nineighttwelve.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftytwelve:hover {
+.nineighttwelve:hover {
 	top: 200px;
 }
 
-.ninfiftythirteen {
-	background-image: url("ninfiftythirteen.jpg");
+.nineightthirteen {
+	background-image: url("nineightthirteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftythirteen:hover {
+.nineightthirteen:hover {
 	top: 200px;
 }
 
-.ninfiftyseven {
-	background-image: url("ninfiftyseven.jpg");
+.nineightfourteen {
+	background-image: url("nineightfourteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyseven:hover {
+.nineightfourteen:hover {
 	top: 200px;
 }
 
-.ninfiftyeight {
-	background-image: url("ninfiftyeight.jpg");
+.nineightfifteen {
+	background-image: url("nineightfifteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyeight:hover {
+.nineightfifteen:hover {
 	top: 200px;
 }
 
-.ninfiftynine {
-	background-image: url("ninfiftynine.jpg");
+.nineightsixteen {
+	background-image: url("nineightsixteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftynine:hover {
+.nineightsixteen:hover {
 	top: 200px;
 }
 
-.hairseven {
-	background-image: url("hairseven.jpg");
+.nineseventeen {
+	background-image: url("nineseventeen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.hairseven:hover {
+.nineseventeen:hover {
 	top: 200px;
 }
 
-.haireight {
-	background-image: url("haireight.jpg");
+.nineighteighteen {
+	background-image: url("nineighteighteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.haireight:hover {
+.nineighteighteen:hover {
 	top: 200px;
 }
 
-.hairnine {
-	background-image: url("hairnine.jpg");
+.nineightnineteen {
+	background-image: url("nineightnineteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.hairnine:hover {
+.nineightnineteen:hover {
 	top: 200px;
 }
 
-.accseven {
-	background-image: url("accseven.jpg");
+.ninetwenty {
+	background-image: url("ninetwenty.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.accseven:hover {
+.ninetwenty:hover {
 	top: 200px;
 }
 
-.acceight {
-	background-image: url("acceight.jpg");
+.hairsixteen {
+	background-image: url("hairsixteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.acceight:hover {
+.hairsixteen:hover {
 	top: 200px;
 }
 
-.accnine {
-	background-image: url("accnine.jpg");
+.hairseventeen {
+	background-image: url("hairseventeen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.accnine:hover {
+.hairseventeen:hover {
 	top: 200px;
 }
 
-.makeupfive {
-	background-image: url("makeupfive.jpg");
+.haireighteen {
+	background-image: url("haireighteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.makeupfive:hover {
+.haireighteen:hover {
 	top: 200px;
 }
 
-.makeupsix {
-	background-image: url("makeupsix.jpg");
+.accsixteen {
+	background-image: url("accsixteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.makeupsix:hover {
+.accsixteen:hover {
+	top: 200px;
+}
+
+.accseventeen {
+	background-image: url("accseventeen.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.accseventeen:hover {
+	top: 200px;
+}
+
+.acceighteen {
+	background-image: url("acceighteen.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.acceighteen:hover {
+	top: 200px;
+}
+
+.makeupeleven {
+	background-image: url("makeupeleven.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.makeupeleven:hover {
+	top: 200px;
+}
+
+.makeuptwelve {
+	background-image: url("makeuptwelve.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.makeuptwelve:hover {
 	top: 200px;
 }

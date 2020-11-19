@@ -9,9 +9,19 @@ h1 {
 
 h2 {
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 16px;
+	font-size: 18px;
 	position: absolute;
-	top: 38px;
+	top: 40px;
+	left: 20px;
+	line-height: 25px;
+}
+
+h3 {
+	position: absolute;
+	font-family: 'Righteous', cursive;
+	color: rgb(169, 39, 10);
+	font-size: 50px;
+	top: 2400px;
 	left: 10px;
 }
 
@@ -19,7 +29,19 @@ h2 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 230px;
+	top: 350px;
+	left: 35px;
+	margin-bottom: 15px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.inline-block {
+	position: relative;
+	width: 300px;
+	height: 400px;
+	top: 450px;
+	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
 	display: inline-block;
@@ -32,8 +54,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .greaser:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .greaser1 {
@@ -43,8 +64,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .greaser1:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .greaser2 {
@@ -54,8 +74,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .greaser2:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .greaser3 {
@@ -65,8 +84,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .greaser3:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .greaser4 {
@@ -76,8 +94,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .greaser4:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .greaser6 {
@@ -87,8 +104,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .greaser6:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .greaser7 {
@@ -98,8 +114,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .greaser7:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .greaser8 {
@@ -109,8 +124,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .greaser8:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .hippie {
@@ -120,9 +134,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .hippie:hover {
-	width: 300px;
-	height: 300px;
-}
+	top:200px;}
 
 .hippie1 {
 	background-image: url("hippie1.jpg");
@@ -131,8 +143,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .hippie1:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .hippie2 {
@@ -142,8 +153,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .hippie2:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .hippie3 {
@@ -153,8 +163,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .hippie3:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .hippie4 {
@@ -164,52 +173,7 @@ h2 {
 	background-repeat: no-repeat;
 }
 .hippie4:hover {
-	width: 300px;
-	height: 300px;
-}
-
-.ninsixty {
-	background-image: url("ninsixty.jpg");
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-}
-.ninsixty:hover {
-	width: 300px;
-	height: 300px;
-}
-
-.ninsixtyone {
-	background-image: url("ninsixtyone.jpg");
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-}
-.ninsixtyone:hover {
-	width: 300px;
-	height: 300px;
-}
-
-.ninsixtytwo {
-	background-image: url("ninsixtytwo.jpg");
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-}
-.ninsixtytwo:hover {
-	width: 300px;
-	height: 300px;
-}
-
-.ninsixtythree {
-	background-image: url("ninsixtythree.jpg");
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-}
-.ninsixtythree:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
 }
 
 .ninsixtyfour {
@@ -219,6 +183,145 @@ h2 {
 	background-repeat: no-repeat;
 }
 .ninsixtyfour:hover {
-	width: 300px;
-	height: 300px;
+	top:200px;
+}
+
+.ninsixtyone {
+	background-image: url("ninsixtyone.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixtyone:hover {
+	top:200px;
+}
+
+.ninsixtytwo {
+	background-image: url("ninsixtytwo.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixtytwo:hover {
+	top:200px;
+}
+
+.ninsixtythree {
+	background-image: url("ninsixtythree.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixtythree:hover {
+	top:200px;
+}
+
+.ninsixty {
+	background-image: url("ninsixty.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixty:hover {
+	top:200px;
+}
+
+.ninsixtyfive {
+	background-image: url("ninsixtyfive.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixtyfive:hover {
+	top:200px;
+}
+
+.ninsixtysix {
+	background-image: url("ninsixtysix.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.ninsixtysix:hover {
+	top:200px;
+}
+
+.hairten {
+	background-image: url("hairten.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hairten:hover {
+	top: 200px;
+}
+
+.haireleven {
+	background-image: url("haireleven.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.haireleven:hover {
+	top: 200px;
+}
+
+.hairtwelve {
+	background-image: url("hairtwelve.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hairtwelve:hover {
+	top: 200px;
+}
+
+.accten {
+	background-image: url("accten.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.accten:hover {
+	top: 200px;
+}
+
+.acceleven {
+	background-image: url("acceleven.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.acceleven:hover {
+	top: 200px;
+}
+
+.acctwelve {
+	background-image: url("acctwelve.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.acctwelve:hover {
+	top: 200px;
+}
+
+.makeupseven {
+	background-image: url("makeupseven.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.makeupsevem:hover {
+	top: 200px;
+}
+
+.makeupeight {
+	background-image: url("makeupeight.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.makeupeight:hover {
+	top: 200px;
 }

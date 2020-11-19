@@ -11,7 +11,7 @@ h2 {
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 18px;
 	position: absolute;
-	top: 35px;
+	top: 40px;
 	left: 20px;
 	line-height: 25px;
 }
@@ -21,7 +21,7 @@ h3 {
 	font-family: 'Righteous', cursive;
 	color: rgb(169, 39, 10);
 	font-size: 50px;
-	top: 1890px;
+	top: 1920px;
 	left: 10px;
 }
 
@@ -29,7 +29,7 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 259px;
+	top: 280px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
@@ -40,249 +40,254 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 340px;
+	top: 400px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
 	display: inline-block;
 }
 
-.ninfiftyone {
-	background-image: url("ninfiftyone.jpg");
+
+
+.ninsevenone {
+	background-image: url("ninsevenone.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyone:hover {
+.ninsevenone:hover {
 	top: 200px;
 }
 
-.ninfiftytwo {
-	background-image: url("ninfiftytwo.jpg");
+.ninsevenfive {
+	background-image: url("ninsevenfive.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftytwo:hover {
+
+.ninsevenfive:hover {
 	top: 200px;
 }
 
-.ninfiftythree {
-	background-image: url("ninfiftythree.jpg");
+.ninsevensix {
+	background-image: url("ninsevensix.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftythree:hover {
+
+.ninsevensix:hover {
 	top: 200px;
 }
 
-.ninfiftyfour {
-	background-image: url("ninfiftyfour.jpg");
+.ninsevenseven {
+	background-image: url("ninsevenseven.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfour:hover {
+
+.ninsevenseven:hover {
 	top: 200px;
 }
 
-.ninfiftyfive {
-	background-image: url("ninfiftyfive.jpg");
+.ninseveneight {
+	background-image: url("ninseveneight.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfive:hover {
+.ninseveneight:hover {
 	top: 200px;
 }
 
-.ninfiftysix {
-	background-image: url("ninfiftysix.jpg");
+.ninsevennine {
+	background-image: url("ninsevennine.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftysix:hover {
+.ninsevennine:hover {
 	top: 200px;
 }
 
-.ninfiftyfourteen {
-	background-image: url("ninfiftyfourteen.jpg");
+.ninseventwo {
+	background-image: url("ninseventwo.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfourteen:hover {
+.ninseventwo:hover {
+	top: 200px;
+}
+.ninseventhree {
+	background-image: url("ninseventhree.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.ninseventhree:hover {
 	top: 200px;
 }
 
-.ninfiftyfifteen {
-	background-image: url("ninfiftyfifteen.jpg");
+.ninsevenfour {
+	background-image: url("ninsevenfour.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyfifteen:hover {
+.ninsevenfour:hover {
 	top: 200px;
 }
 
-.ninfiftysixteen {
-	background-image: url("ninfiftysixteen.jpg");
+.ninseventen {
+	background-image: url("ninseventen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftysixteen:hover {
+.ninseventen:hover {
 	top: 200px;
 }
 
-.ninfiftyten {
-	background-image: url("ninfiftyten.jpg");
+.ninseveneleven {
+	background-image: url("ninseveneleven.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyten:hover {
+.ninseveneleven:hover {
 	top: 200px;
 }
 
-.ninfiftyeleven {
-	background-image: url("ninfiftyeleven.jpg");
+.ninseventwelve {
+	background-image: url("ninseventwelve.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyeleven:hover {
+.ninseventwelve:hover {
 	top: 200px;
 }
 
-.ninfiftytwelve {
-	background-image: url("ninfiftytwelve.jpg");
+.ninseventhirteen {
+	background-image: url("ninseventhirteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftytwelve:hover {
+.ninseventhirteen:hover {
 	top: 200px;
 }
 
-.ninfiftythirteen {
-	background-image: url("ninfiftythirteen.jpg");
+.ninsevenfourteen {
+	background-image: url("ninsevenfourteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftythirteen:hover {
+.ninsevenfourteen:hover {
 	top: 200px;
 }
 
-.ninfiftyseven {
-	background-image: url("ninfiftyseven.jpg");
+.ninsevenfifteen {
+	background-image: url("ninsevenfifteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyseven:hover {
+.ninsevenfifteen:hover {
 	top: 200px;
 }
 
-.ninfiftyeight {
-	background-image: url("ninfiftyeight.jpg");
+.ninsevensixteen {
+	background-image: url("ninsevensixteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftyeight:hover {
+.ninsevensixteen:hover {
 	top: 200px;
 }
 
-.ninfiftynine {
-	background-image: url("ninfiftynine.jpg");
+.hairthirteen {
+	background-image: url("hairthirteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.ninfiftynine:hover {
+.hairthirteen:hover {
 	top: 200px;
 }
 
-.hairseven {
-	background-image: url("hairseven.jpg");
+.hairfourteen {
+	background-image: url("hairfourteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.hairseven:hover {
+.hairfourteen:hover {
 	top: 200px;
 }
 
-.haireight {
-	background-image: url("haireight.jpg");
+.hairfifteen {
+	background-image: url("hairfifteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.haireight:hover {
+.hairfifteen:hover {
 	top: 200px;
 }
 
-.hairnine {
-	background-image: url("hairnine.jpg");
+.accthirteen {
+	background-image: url("accthirteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.hairnine:hover {
+.accthirteen:hover {
 	top: 200px;
 }
 
-.accseven {
-	background-image: url("accseven.jpg");
+.accfourteen {
+	background-image: url("accfourteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.accseven:hover {
+.accfourteen:hover {
 	top: 200px;
 }
 
-.acceight {
-	background-image: url("acceight.jpg");
+.accfifteen {
+	background-image: url("accfifteen.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.acceight:hover {
+.accfifteen:hover {
 	top: 200px;
 }
 
-.accnine {
-	background-image: url("accnine.jpg");
+.makeupnine {
+	background-image: url("makeupnine.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.accnine:hover {
+.makeupnine:hover {
 	top: 200px;
 }
 
-.makeupfive {
-	background-image: url("makeupfive.jpg");
+.makeupten {
+	background-image: url("makeupten.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.makeupfive:hover {
-	top: 200px;
-}
-
-.makeupsix {
-	background-image: url("makeupsix.jpg");
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-}
-.makeupsix:hover {
+.makeupten:hover {
 	top: 200px;
 }

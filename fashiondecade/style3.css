@@ -4,22 +4,46 @@ h1 {
 	color: rgb(169, 39, 10);
 	font-size: 50px;
 	top: -40px;
-	left: 10px;
+	left: 20px;
 }
 
 h2 {
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 18px;
+	font-size: 19px;
 	position: absolute;
-	top: 35px;
+	top: 40px;
 	left: 10px;
+	margin-left: 10px;
+	line-height: 25px;
+
+}
+
+h3 {
+	position: absolute;
+	font-family: 'Righteous', cursive;
+	color: rgb(169, 39, 10);
+	font-size: 50px;
+	top: 1470px;
+	left: 20px;
 }
 
 .relative-image {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 213px;
+	top: 260px;
+	left: 35px;
+	margin-bottom: 15px;
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.inline-block {
+	position: relative;
+	width: 300px;
+	height: 400px;
+	top: 330px;
+	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
 	display: inline-block;
@@ -105,7 +129,6 @@ h2 {
 	top: 200px;
 }
 
-
 .ninfourty {
 	background-image: url("ninfourty.jpg");
 	background-size: cover;
@@ -113,5 +136,125 @@ h2 {
 	background-repeat: no-repeat;
 }
 .ninfourty:hover {
+	top: 200px;
+}
+
+.zootsuit {
+	background-image: url("zootsuit.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.zootsuit:hover {
+	top: 200px;
+}
+
+.zootsuitone {
+	background-image: url("zootsuitone.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.zootsuitone:hover {
+	top: 200px;
+}
+
+.zootsuittwo {
+	background-image: url("zootsuittwo.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.zootsuittwo:hover {
+	top: 200px;
+}
+
+.zootsuitthree {
+	background-image: url("zootsuitthree.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.zootsuitthree:hover {
+	top: 200px;
+}
+
+.hairfour {
+	background-image: url("hairfour.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hairfour:hover {
+	top: 200px;
+}
+
+.hairfive {
+	background-image: url("hairfive.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hairfive:hover {
+	top: 200px;
+}
+
+.hairsix {
+	background-image: url("hairsix.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.hairsix:hover {
+	top: 200px;
+}
+
+.accfour {
+	background-image: url("accfour.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.accfour:hover {
+	top: 200px;
+}
+
+.accfive {
+	background-image: url("accfive.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.accfive:hover {
+	top: 200px;
+}
+
+.accsix {
+	background-image: url("accsix.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.accsix:hover {
+	top: 200px;
+}
+
+.makeupthree {
+	background-image: url("makeupthree.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.makeupthree:hover {
+	top: 200px;
+}
+
+.makeupfour {
+	background-image: url("makeupfour.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.makeupfour:hover {
 	top: 200px;
 }

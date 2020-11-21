@@ -1,7 +1,86 @@
+.backgroundtwentyfour {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundsix.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundtwentyfive{
+	position: absolute;
+	top: 715;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundsix.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundtwentysix {
+	position: absolute;
+	top: 1430;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundsix.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundtwentyseven {
+	position: absolute;
+	top: 2145;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundsix.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundtwentyeight {
+	position: absolute;
+	top: 2860;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundsix.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundtwentyeight:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 2000px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+.box {
+	position: absolute;
+	background-color: rgb(237, 237, 239);
+	width: 840px;
+	height: 460px;
+	top: 57px;
+	left: 20px;
+}
+
 h1 {
 	position: absolute;
 	font-family: 'Righteous', cursive;
-	color: rgb(169, 39, 10);
+	color: rgb(222, 114, 193 );
 	font-size: 50px;
 	top: -40px;
 	left: 10px;
@@ -9,19 +88,20 @@ h1 {
 
 h2 {
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 18px;
+	font-size: 17px;
 	position: absolute;
-	top: 40px;
-	left: 20px;
-	line-height: 25px;
+	top: 50px;
+	left: 30px;
+	line-height: 23px;
+	width: 820px;
 }
 
 h3 {
 	position: absolute;
 	font-family: 'Righteous', cursive;
-	color: rgb(169, 39, 10);
+	color: rgb(222, 114, 193 );
 	font-size: 50px;
-	top: 2420px;
+	top: 2580px;
 	left: 10px;
 }
 
@@ -29,7 +109,7 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 370px;
+	top: 520px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
@@ -40,7 +120,7 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 450px;
+	top: 620px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
@@ -54,7 +134,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightone:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineighttwo {
@@ -64,7 +144,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineighttwo:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightthree {
@@ -74,7 +154,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightthree:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightfour {
@@ -84,7 +164,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightfour:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightfive {
@@ -94,7 +174,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightfive:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightsix {
@@ -104,7 +184,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightsix:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightseven {
@@ -114,7 +194,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightseven:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineighteight {
@@ -124,7 +204,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineighteight:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightnine {
@@ -134,7 +214,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightnine:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightten {
@@ -144,7 +224,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightten:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineighteleven {
@@ -154,7 +234,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineighteleven:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineighttwelve {
@@ -164,7 +244,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineighttwelve:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightthirteen {
@@ -174,7 +254,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightthirteen:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightfourteen {
@@ -184,7 +264,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightfourteen:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightfifteen {
@@ -194,7 +274,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightfifteen:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightsixteen {
@@ -204,7 +284,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightsixteen:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineseventeen {
@@ -214,7 +294,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineseventeen:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineighteighteen {
@@ -224,7 +304,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineighteighteen:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .nineightnineteen {
@@ -234,7 +314,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .nineightnineteen:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .ninetwenty {
@@ -244,7 +324,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninetwenty:hover {
-	top: 200px;
+	top: 500px;
 }
 
 .hairsixteen {
@@ -254,7 +334,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hairsixteen:hover {
-	top: 200px;
+	top: 610px;
 }
 
 .hairseventeen {
@@ -264,7 +344,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hairseventeen:hover {
-	top: 200px;
+	top: 610px;
 }
 
 .haireighteen {
@@ -274,7 +354,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .haireighteen:hover {
-	top: 200px;
+	top: 610px;
 }
 
 .accsixteen {
@@ -284,7 +364,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .accsixteen:hover {
-	top: 200px;
+	top: 610px;
 }
 
 .accseventeen {
@@ -294,7 +374,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .accseventeen:hover {
-	top: 200px;
+	top: 610px;
 }
 
 .acceighteen {
@@ -304,7 +384,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .acceighteen:hover {
-	top: 200px;
+	top: 610px;
 }
 
 .makeupeleven {
@@ -314,7 +394,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .makeupeleven:hover {
-	top: 200px;
+	top: 610px;
 }
 
 .makeuptwelve {
@@ -324,5 +404,5 @@ h3 {
 	background-repeat: no-repeat;
 }
 .makeuptwelve:hover {
-	top: 200px;
+	top: 610px;
 }

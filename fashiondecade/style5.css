@@ -1,7 +1,99 @@
+.backgroundthirteen {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundfour.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundfourteen {
+	position: absolute;
+	top: 715;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundfour.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundfifteen {
+	position: absolute;
+	top: 1430;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundfour.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundsixteen {
+	position: absolute;
+	top: 2145;
+	left: 0;
+	width: 100vw;
+	height: 70vh;
+	opacity: 40%;
+	background-image: url("backgroundfour.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundseventeen {
+	position: absolute;
+	top: 2646;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundfour.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.backgroundeighteen {
+    position: absolute;
+	top: 3360;
+	left: 0;
+	width: 100vw;
+	height: 35vh;
+	opacity: 40%;
+	background-image: url("backgroundfour.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundeighteen:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 2000px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+.box {
+	position: absolute;
+	background-color: rgb(237, 237, 239);
+	width: 830px;
+	height: 460px;
+	top: 57px;
+	left: 20px;
+}
+
 h1 {
 	position: absolute;
 	font-family: 'Righteous', cursive;
-	color: rgb(169, 39, 10);
+	color: rgb(218, 150, 135 );
 	font-size: 50px;
 	top: -40px;
 	left: 10px;
@@ -9,19 +101,20 @@ h1 {
 
 h2 {
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 	position: absolute;
-	top: 40px;
-	left: 20px;
+	top: 46px;
+	left: 30px;
 	line-height: 25px;
+	width: 800px;
 }
 
 h3 {
 	position: absolute;
 	font-family: 'Righteous', cursive;
-	color: rgb(169, 39, 10);
+	color: rgb(218, 150, 135 );
 	font-size: 50px;
-	top: 2400px;
+	top: 2580px;
 	left: 10px;
 }
 
@@ -29,7 +122,7 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 350px;
+	top: 520px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
@@ -40,7 +133,7 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 450px;
+	top: 630px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
@@ -54,7 +147,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .greaser:hover {
-	top:200px;
+	top: 500px;
 }
 
 .greaser1 {
@@ -64,7 +157,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .greaser1:hover {
-	top:200px;
+	top: 500px;
 }
 
 .greaser2 {
@@ -74,7 +167,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .greaser2:hover {
-	top:200px;
+	top: 500px;
 }
 
 .greaser3 {
@@ -84,7 +177,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .greaser3:hover {
-	top:200px;
+	top: 500px;
 }
 
 .greaser4 {
@@ -94,7 +187,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .greaser4:hover {
-	top:200px;
+	top: 500px;
 }
 
 .greaser6 {
@@ -104,7 +197,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .greaser6:hover {
-	top:200px;
+	top: 500px;
 }
 
 .greaser7 {
@@ -114,7 +207,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .greaser7:hover {
-	top:200px;
+	top: 500px;
 }
 
 .greaser8 {
@@ -124,7 +217,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .greaser8:hover {
-	top:200px;
+	top: 500px;
 }
 
 .hippie {
@@ -134,7 +227,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hippie:hover {
-	top:200px;}
+	top: 500px;}
 
 .hippie1 {
 	background-image: url("hippie1.jpg");
@@ -143,7 +236,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hippie1:hover {
-	top:200px;
+	top: 500px;
 }
 
 .hippie2 {
@@ -153,7 +246,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hippie2:hover {
-	top:200px;
+	top: 500px;
 }
 
 .hippie3 {
@@ -163,7 +256,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hippie3:hover {
-	top:200px;
+	top: 500px;
 }
 
 .hippie4 {
@@ -173,7 +266,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hippie4:hover {
-	top:200px;
+	top: 500px;
 }
 
 .ninsixtyfour {
@@ -183,7 +276,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninsixtyfour:hover {
-	top:200px;
+	top: 500px;
 }
 
 .ninsixtyone {
@@ -193,7 +286,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninsixtyone:hover {
-	top:200px;
+	top: 500px;
 }
 
 .ninsixtytwo {
@@ -203,7 +296,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninsixtytwo:hover {
-	top:200px;
+	top: 500px;
 }
 
 .ninsixtythree {
@@ -213,7 +306,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninsixtythree:hover {
-	top:200px;
+	top: 500px;
 }
 
 .ninsixty {
@@ -223,7 +316,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninsixty:hover {
-	top:200px;
+	top: 500px;
 }
 
 .ninsixtyfive {
@@ -233,7 +326,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninsixtyfive:hover {
-	top:200px;
+	top: 500px;
 }
 
 .ninsixtysix {
@@ -243,7 +336,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninsixtysix:hover {
-	top:200px;
+	top: 500px;
 }
 
 .hairten {
@@ -253,7 +346,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hairten:hover {
-	top: 200px;
+	top: 620px;
 }
 
 .haireleven {
@@ -263,7 +356,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .haireleven:hover {
-	top: 200px;
+	top: 620px;
 }
 
 .hairtwelve {
@@ -273,7 +366,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hairtwelve:hover {
-	top: 200px;
+	top: 620px;
 }
 
 .accten {
@@ -283,7 +376,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .accten:hover {
-	top: 200px;
+	top: 620px;
 }
 
 .acceleven {
@@ -293,7 +386,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .acceleven:hover {
-	top: 200px;
+	top: 620px;
 }
 
 .acctwelve {
@@ -303,7 +396,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .acctwelve:hover {
-	top: 200px;
+	top: 620px;
 }
 
 .makeupseven {
@@ -312,8 +405,8 @@ h3 {
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.makeupsevem:hover {
-	top: 200px;
+.makeupseven:hover {
+	top: 620px;
 }
 
 .makeupeight {
@@ -323,5 +416,5 @@ h3 {
 	background-repeat: no-repeat;
 }
 .makeupeight:hover {
-	top: 200px;
+	top: 620px;
 }

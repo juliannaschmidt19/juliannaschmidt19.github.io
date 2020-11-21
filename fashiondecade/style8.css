@@ -1,7 +1,86 @@
+.backgroundtwentynine {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundseven.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundthirty {
+	position: absolute;
+	top: 715;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundseven.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundthirtyone {
+	position: absolute;
+	top: 1430;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundseven.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundthirtytwo {
+	position: absolute;
+	top: 2145;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundseven.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundthirtythree {
+	position: absolute;
+	top: 2860;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	opacity: 40%;
+	background-image: url("backgroundseven.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+.backgroundthirtythree:after {
+	position: absolute;
+	bottom: -5px;
+	left: 0px;
+	width: 2000px;
+	height: 15px;
+	background-color: rgb(169, 39, 10);
+	content: "";
+}
+
+.box {
+	position: absolute;
+	background-color: rgb(237, 237, 239);
+	width: 840px;
+	height: 430px;
+	top: 57px;
+	left: 20px;
+}
+
 h1 {
 	position: absolute;
 	font-family: 'Righteous', cursive;
-	color: rgb(169, 39, 10);
+	color: rgb(115, 0, 252 );
 	font-size: 50px;
 	top: -40px;
 	left: 10px;
@@ -9,19 +88,20 @@ h1 {
 
 h2 {
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 18px;
+	font-size: 17px;
 	position: absolute;
-	top: 40px;
-	left: 20px;
-	line-height: 25px;
+	top: 50px;
+	left: 35px;
+	line-height: 23px;
+	width: 800px;
 }
 
 h3 {
 	position: absolute;
 	font-family: 'Righteous', cursive;
-	color: rgb(169, 39, 10);
+	color: rgb(115, 0, 252  );
 	font-size: 50px;
-	top: 2400px;
+	top: 2550px;
 	left: 10px;
 }
 
@@ -29,7 +109,7 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 350px;
+	top: 490px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
@@ -40,7 +120,7 @@ h3 {
 	position: relative;
 	width: 300px;
 	height: 400px;
-	top: 430px;
+	top: 610px;
 	left: 35px;
 	margin-bottom: 15px;
 	margin-right: 10px;
@@ -55,7 +135,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninnineone:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninetwo {
@@ -65,7 +145,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninetwo:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninethree {
@@ -75,7 +155,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninethree:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninefour {
@@ -85,7 +165,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninefour:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninefive {
@@ -95,7 +175,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninefive:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninesix {
@@ -105,7 +185,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninesix:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninnineseven {
@@ -115,7 +195,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninnineseven:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninnineeight {
@@ -125,7 +205,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninnineeight:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninenine {
@@ -135,7 +215,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninenine:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninnineten {
@@ -145,7 +225,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninnineten:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninnineeleven {
@@ -155,7 +235,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninnineeleven:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninetwelve {
@@ -165,7 +245,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninetwelve:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninethirteen {
@@ -175,7 +255,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninethirteen:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninefourteen {
@@ -185,7 +265,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninefourteen:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninefifteen {
@@ -195,7 +275,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninefifteen:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninesixteen {
@@ -205,7 +285,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninesixteen:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninnineseventeen {
@@ -215,7 +295,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninnineseventeen:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninnineeighteen {
@@ -225,7 +305,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninnineeighteen:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninenineteen {
@@ -235,7 +315,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninenineteen:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .ninninetwenty {
@@ -245,7 +325,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .ninninetwenty:hover {
-	top: 200px;
+	top: 480px;
 }
 
 .hairnineteen {
@@ -255,7 +335,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hairnineteen:hover {
-	top: 200px;
+	top: 600px;
 }
 
 .hairtwenty {
@@ -265,7 +345,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hairtwenty:hover {
-	top: 200px;
+	top: 600px;
 }
 
 .hairtwentyone {
@@ -275,7 +355,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .hairtwentyone:hover {
-	top: 200px;
+	top: 600px;
 }
 
 .accnineteen {
@@ -285,7 +365,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .accnineteen:hover {
-	top: 200px;
+	top: 600px;
 }
 
 .acctwenty {
@@ -295,7 +375,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .acctwenty:hover {
-	top: 200px;
+	top: 600px;
 }
 
 .acctwentyone {
@@ -305,7 +385,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .acctwentyone:hover {
-	top: 200px;
+	top: 600px;
 }
 
 .makeupthirteen {
@@ -315,7 +395,7 @@ h3 {
 	background-repeat: no-repeat;
 }
 .makeupthirteen:hover {
-	top: 200px;
+	top: 600px;
 }
 
 .makeupfourteen {
@@ -325,5 +405,5 @@ h3 {
 	background-repeat: no-repeat;
 }
 .makeupfourteen:hover {
-	top: 200px;
+	top: 600px;
 }

@@ -20,6 +20,7 @@
 	height: 60px;
 	background-color: rgb(255, 255, 255);
 	border-radius: 3px;
+
 }
 
 .window2 {
@@ -285,7 +286,7 @@
 .city7 {
 	position: absolute;
 	top: 540px;
-	left: 550px;
+	left: 528px;
 	width: 190px;
 	height: 340px;
 	background-color: rgb(203, 84, 5);
@@ -406,7 +407,7 @@
 
 .window29 {
 	position: absolute;
-	top: 637px;
+	top: 620px;
 	left: 1150px;
 	width: 50px;
 	height: 140px;
@@ -416,7 +417,7 @@
 
 .window30 {
 	position: absolute;
-	top: 637px;
+	top: 620px;
 	left: 1230px;
 	width: 50px;
 	height: 140px;
@@ -584,7 +585,7 @@
 
 .city7.alarm {
 	top: 540px;
-	left: 550px;
+	left: 528px;
 	animation-name: alarm1;
 	animation-iteration-count: 1;
 	animation-fill-mode: forwards; 
@@ -636,8 +637,8 @@
 
 .box3 {
   position: absolute;
-  top: 100px;
-  left: 100px;
+  top: 130px;
+  left: 140px;
   width: 200px;
   height: 50px;
   border-radius: 25px;
@@ -659,6 +660,12 @@
 .background.alarm {
 	opacity: 1;
 	background-color: rgb(21, 88, 158);
+}
+
+.window1.alarm {
+	position: absolute;
+	background-color: rgb(231, 222, 111);
+	transition: all 10s;
 }
 
 @keyframes alarm1 {

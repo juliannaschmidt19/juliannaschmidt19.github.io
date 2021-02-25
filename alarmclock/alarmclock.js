@@ -1,4 +1,4 @@
-var timeTilAlarmMillis = 5000;
+var timeTilAlarmMillis = 8000;
 
 document.addEventListener('DOMContentLoaded', function() {
   setTimeout(function() {

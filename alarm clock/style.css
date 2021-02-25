@@ -9,6 +9,7 @@
 	animation-name: animation1;
 	animation-duration: 1.5s;
 	animation-iteration-count: infinite;
+	transition: all 2s;
 }
 
 .window1 {
@@ -42,6 +43,7 @@
 	animation-name: animation3;
 	animation-duration: 2.5s;
 	animation-iteration-count: infinite;
+	transition: all 2s;
 }
 
 .window3 {
@@ -115,6 +117,7 @@
 	animation-name: animation2;
 	animation-duration: 1s;
 	animation-iteration-count: infinite;
+	transition: all 2s;
 }
 
 .window9 {
@@ -168,6 +171,7 @@
 	animation-name: animation4;
 	animation-duration: 2.5s;
 	animation-iteration-count: infinite;
+	transition: all 2s;
 }
 
 .window13 {
@@ -201,6 +205,7 @@
 	animation-name: animation5;
 	animation-duration: 1.5s;
 	animation-iteration-count: infinite;
+	transition: all 2s;
 }
 
 .window15 {
@@ -244,6 +249,7 @@
 	animation-name: animation6;
 	animation-duration: 1.5s;
 	animation-iteration-count: infinite;
+	transition: all 2s;
 }
 
 .window18 {
@@ -287,6 +293,7 @@
 	animation-name: animation7;
 	animation-duration: 2.5s;
 	animation-iteration-count: infinite;
+	transition: all 2s;
 }
 
 .window21 {
@@ -340,6 +347,7 @@
 	animation-name: animation8;
 	animation-duration: 1s;
 	animation-iteration-count: infinite;
+	transition: all 2s;
 }
 
 .window25 {
@@ -393,6 +401,7 @@
 	animation-name: animation9;
 	animation-duration: 1.5s;
 	animation-iteration-count: infinite;
+	transition: all 2s;
 }
 
 .window29 {
@@ -522,5 +531,162 @@
 		top: 540px;
 	}
 }
+
+.city1.alarm {
+	top: 100px !important;
+	left: 100px !important; 
+	animation-name: alarm1;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards; 
+
+}
+
+.city2.alarm {
+	top: 270px;
+	left: 330px;
+	animation-name: alarm1;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards; 
+
+}
+
+.city3.alarm {
+	top: 190px;
+	left: 700px;
+	animation-name: alarm1;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards; 
+}
+
+.city4.alarm {
+	top: 130px;
+	left: 970px;
+	animation-name: alarm1;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards; 
+}
+
+.city5.alarm {
+	top: 280px;
+	left: 1150px;
+	animation-name: alarm1;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards; 
+}
+
+.city6.alarm {
+	top: 540px;
+	left: 100px;
+	animation-name: alarm1;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards; 
+}
+
+.city7.alarm {
+	top: 540px;
+	left: 550px;
+	animation-name: alarm1;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards; 
+}
+
+.city8.alarm {
+	top: 540px;
+	left: 760px;
+	animation-name: alarm1;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards; 
+}
+
+.city9.alarm {
+	top: 540px;
+	left: 1130px;
+	animation-name: alarm1;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards; 
+}
+
+.city1.alarm {
+	animation-name: colorAlarm;
+}
+.city2.alarm {
+	animation-name: colorAlarm;
+}
+.city3.alarm {
+	animation-name: colorAlarm;
+}
+.city4.alarm {
+	animation-name: colorAlarm;
+}
+.city5.alarm {
+	animation-name: colorAlarm;
+}
+.city6.alarm {
+	animation-name: colorAlarm;
+}
+.city7.alarm {
+	animation-name: colorAlarm;
+}
+.city8.alarm {
+	animation-name: colorAlarm;
+}
+.city9.alarm {
+	animation-name: colorAlarm;
+}
+
+.box3 {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 200px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: rgb(40, 40, 40);
+  opacity: 0;
+  color: white;
+  
+}
+
+.background {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100vw;
+	height: 100vw;
+	opacity: 0;
+}
+
+.background.alarm {
+	opacity: 1;
+	background-color: rgb(21, 88, 158);
+}
+
+@keyframes alarm1 {
+	0% {
+		transition: all 10s;
+		opacity: 0;
+	}
+	50% {
+		transition: 5s;
+	}
+	100% {
+		transition: all 10s;
+		opacity: 1;
+	}
+}
+
+@keyframes colorAlarm {
+	0% {
+		background-color: rgb(63, 119, 175);
+	}
+	50% {
+		background-color: rgb(31.5, 59.5, 87.5);
+	}
+	100% {
+		background-color: rgb(63, 119, 175)
+	}
+}
+
+
 
 

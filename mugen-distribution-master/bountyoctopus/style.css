@@ -45,7 +45,7 @@ body {
   right: 10px;
   width: 40px;
   height: 40px;
-  line-height: 40px;
+  line-height: 37px;
   border-radius: 50%;
   background-color: rgb(241, 148, 31);
   color: white;
@@ -128,7 +128,7 @@ body {
   background-image: url("./img/npc-sprite-after.png");
   bottom: 0;
   opacity: 0;
-  transition: bottom 400ms linear, opacity 1000ms linear 1000ms;
+  transition: bottom 600ms linear, opacity 1000ms linear 1000ms;
 
 }
 
